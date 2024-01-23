@@ -11,7 +11,6 @@ Key features include monthly reports, profitability analysis, and identification
 
 ## Technologies Used
 - SAS (PROC SQL, SAS/Graph, SAS/Stats)
-- Python (if applicable)
 - SQL
 
 
